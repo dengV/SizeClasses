@@ -414,7 +414,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SizeClasses/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.guanshanliu.SizeClasses;
+				PRODUCT_BUNDLE_IDENTIFIER = com.guanshanliu.SizeClasses2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
